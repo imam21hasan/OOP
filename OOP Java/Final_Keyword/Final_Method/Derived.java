@@ -2,7 +2,7 @@
 package Final_Keyword.Final_Method;
 
 public class Derived extends Base{
-    /*void show()  // Final method overriding kora jay na
+    /*void show()  // Final method doesn't overriding
     {
         System.out.println("This is derived.");
     }*/ 
